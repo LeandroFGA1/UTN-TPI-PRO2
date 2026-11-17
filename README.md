@@ -2,7 +2,7 @@
 
 Trabajo Práctico Integrador de **Programación II** (Tecnicatura Universitaria en Programación a Distancia, UTN).
 Aplicación de consola en Python con Programación Orientada a Objetos. Toda la información vive en memoria mientras el programa se ejecuta.
-
+## Alumno: Fernando Leandro Gaston Aucache
 ## Cómo ejecutar
 
 Requiere **Python 3.12 o superior**. No necesita instalar dependencias: usa solo la biblioteca estándar.

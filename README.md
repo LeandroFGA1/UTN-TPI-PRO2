@@ -40,4 +40,5 @@ La dependencia va en un solo sentido: consola → servicios → entidades.
 ## Entrega
 
 - **Informe:** [Informe_TPI_FoodStore.pdf](Informe_TPI_FoodStore.pdf) (en la raíz del proyecto)
-- **Video demostración:** Pegar aca el video, no olvidar.
+- **Video demostración:** https://www.youtube.com/watch?v=57XRzaT6BX4
+- 
